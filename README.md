@@ -1,0 +1,1 @@
+# Classification-of-dynamometer-cards-using-K-mean-algorithm
